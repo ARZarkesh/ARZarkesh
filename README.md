@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Amirreza
 
-<!--
-**ARZarkesh/ARZarkesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (Vue.js)
+🚀 Passionate about building clean and scalable web apps
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Vue.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Coming soon...
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ARZarkesh&show_icons=true)
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/amirreza-zarkesh)
+- [Email](mailto:amirreza.zarkesh.23@gmail.com)
